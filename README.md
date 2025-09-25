@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on software security automation for Amazon, where I am a software engineer
 - 🌱 I'm currently exploring how Generative AI can be applied to DevSecOps
-- 🍟 Co-creator with [@Oxyflush](https://github.com/oxyflush) of FryRank — a web app for ranking French Fries. Check out the repos below.
+- 🍟 Co-creator with [@Oxyflush](https://github.com/oxyflush) of [FryRank](https://fryrank.oxyserver.com/) — a web app for ranking French Fries. Check out the repos below.
 - 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-privitera/)
 
 <!--
