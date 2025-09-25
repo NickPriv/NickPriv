@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, this is Nicholas! 👋
+
+🔭 I’m currently working on automating software security validation for Amazon, where I am a software engineer
+👨‍💼 You can find me on [LinkedIn](https://www.linkedin.com/in/nicholas-privitera/)
 
 <!--
 **NickPriv/NickPriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
