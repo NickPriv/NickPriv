@@ -1,12 +1,9 @@
-## Hi there, this is Nicholas! 👋
+## Hi there, I’m Nicholas! 👋  
 
-🔭 I’m currently working on software security automation for Amazon, where I am a software engineer
-
-🌱 I’m currently exploring applying Gen AI to DevSecOps. Ask me how that's going :)
-
-⚡ For fun, I've been building a web app for reviewing French Fries, called FryRank, with [@Oxyflush](https://github.com/oxyflush). Check that out in the repos below.
-
-👨‍💼 You can find me on [LinkedIn](https://www.linkedin.com/in/nicholas-privitera/)
+- 🔭 I’m currently working on software security automation for Amazon, where I am a software engineer
+- 🌱 I'm currently exploring how Generative AI can be applied to DevSecOps. Ask me how that's going :)
+- 🍟 Co-creator with [@Oxyflush](https://github.com/oxyflush) of [FryRank](https://github.com/yourrepo) — a web app for ranking French Fries. Check out the repos below.
+- 👨‍💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-privitera/)
 
 <!--
 **NickPriv/NickPriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
