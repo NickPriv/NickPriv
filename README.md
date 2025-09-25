@@ -1,6 +1,6 @@
 ## Hi there, this is Nicholas! 👋
 
-🔭 I’m currently working on automating software security validation for Amazon, where I am a software engineer
+🔭 I’m currently working on software security automation for Amazon, where I am a software engineer
 
 🌱 I’m currently exploring applying Gen AI to DevSecOps. Ask me how that's going :)
 
