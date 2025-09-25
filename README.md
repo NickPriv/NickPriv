@@ -4,6 +4,8 @@
 
 🌱 I’m currently exploring applying Gen AI to DevSecOps. Ask me how that's going :)
 
+⚡ For fun, I have been building a web app for reviewing French Fries, called FryRank, with [@Oxyflush](https://github.com/oxyflush). Check that out in the repos below.
+
 👨‍💼 You can find me on [LinkedIn](https://www.linkedin.com/in/nicholas-privitera/)
 
 <!--
